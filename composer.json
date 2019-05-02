@@ -1,0 +1,18 @@
+{
+  "name": "lezzzca/pdo",
+  "description": "libreria pdo",
+  "minimum-stability": "dev",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "lezzzca",
+      "email": "lezzzca@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Class\\": "class"
+    }
+  }
+}
